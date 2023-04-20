@@ -56,7 +56,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
 }
@@ -77,6 +77,8 @@ p {
     margin-left: 20px;
 }
 
+/* Feature section */
+
 .feature {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,6 +96,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Benifit section */
 
 .benefits {
     margin-right: 20px;
@@ -122,6 +126,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer section */
 
 footer {
     padding: 30px;
